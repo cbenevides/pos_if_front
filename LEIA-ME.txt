@@ -1,0 +1,4 @@
+para que fique muito grande o projeto no GIT.
+as pastas bootstrap-4.1.3 e node_modules estão vazias no repositorio de versão.
+
+Para usar basta instala-los na maquina local.
