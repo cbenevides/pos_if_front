@@ -1,0 +1,20 @@
+
+1 - 
+	Tudo o que precisei fazer foi criar uma pasta nova e invocar o comando npm init alí, para permitir que eu possa instalar pacotes JS nessa pasta.
+		 npm init 
+
+	com isso ele criou o "package.json" na pasta
+
+
+
+2 - Instalar o react (-g realiza a instalacao global)
+	npm install -g create-react-app
+
+
+3 - Para criar o projeto na pasta . no "my-app" colocar o nome do projeto
+	npx create-react-app my-app
+
+
+4 - Para iniciar o projeto
+	npm start 
+
